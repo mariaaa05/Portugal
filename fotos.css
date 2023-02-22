@@ -30,7 +30,7 @@ ul#album li{
 }
 
 ul#album li#foto01{
-    background: url(urban-lisbon01.jfif) no-repeat;
+    background: url(album01.jfif) no-repeat;
     background-position: 50% 50% ;
     background-size: 500px 500px;
     background-color: white ;
@@ -39,7 +39,7 @@ ul#album li#foto01:hover{
     background-size: 300px 300px;
 }
 ul#album li#foto02{
-    background: url(urban-lisbon02.jfif) no-repeat;
+    background: url(album02.jfif) no-repeat;
     background-position: 50% 50%;
     background-size: 500px 500px;
     background-color: white;
@@ -48,7 +48,7 @@ ul#album li#foto02:hover{
     background-size: 300px 300px;
 }
 ul#album li#foto03{
-    background: url(urban-lisbon03.jfif) no-repeat;
+    background: url(album03.jfif) no-repeat;
     background-position:50% 50% ;
     background-size: 500px 500px;
     background-color: white;
@@ -57,7 +57,7 @@ ul#album li#foto03:hover{
     background-size: 300px 300px;
 }
 ul#album li#foto04{
-    background: url(urban-lisbon04.jfif) no-repeat;
+    background: url(album04.jfif) no-repeat;
     background-position:50% 50% ;
     background-size: 500px 500px;
     background-color: white;
@@ -66,7 +66,7 @@ ul#album li#foto04:hover{
     background-size: 300px 300px;
 }
 ul#album li#foto05{
-    background: url(urban-lisbon05.jfif) no-repeat;
+    background: url(album05.jfif) no-repeat;
     background-position:50% 50% ;
     background-size: 500px 500px;
     background-color: white;
@@ -75,7 +75,7 @@ ul#album li#foto05:hover{
     background-size: 300px 300px;
 }
 ul#album li#foto06{
-    background: url(urban-lisbon06.jfif) no-repeat;
+    background: url(album06.jfif) no-repeat;
     background-position: 50% 50%;
     background-size: 500px 500px;
     background-color: white;
@@ -83,6 +83,88 @@ ul#album li#foto06{
 ul#album li#foto06:hover{
     background-size: 300px 300px;
 }
+ul#album li#foto07{
+    background: url(album07.jfif) no-repeat;
+    background-position: 50% 50%;
+    background-size: 500px 500px;
+    background-color: white;
+}
+ul#album li#foto07:hover{
+    background-size: 300px 300px;
+}
+ul#album li#foto08{
+    background: url(album08.jfif) no-repeat;
+    background-position: 50% 50%;
+    background-size: 500px 500px;
+    background-color: white;
+}
+ul#album li#foto08:hover{
+    background-size: 300px 300px;
+}
+ul#album li#foto09{
+    background: url(album09.jfif) no-repeat;
+    background-position: 50% 50%;
+    background-size: 500px 500px;
+    background-color: white;
+}
+ul#album li#foto09:hover{
+    background-size: 300px 300px;
+}
+ul#album li#foto10{
+    background: url(album10.jfif) no-repeat;
+    background-position: 50% 50%;
+    background-size: 500px 500px;
+    background-color: white;
+}
+ul#album li#foto10:hover{
+    background-size: 300px 300px;
+}
+ul#album li#foto11{
+    background: url(album11.jfif) no-repeat;
+    background-position: 50% 50%;
+    background-size: 500px 500px;
+    background-color: white;
+}
+ul#album li#foto11:hover{
+    background-size: 300px 300px;
+}
+ul#album li#foto12{
+    background: url(album12.jfif) no-repeat;
+    background-position: 50% 50%;
+    background-size: 500px 500px;
+    background-color: white;
+}
+ul#album li#foto12:hover{
+    background-size: 300px 300px;
+}
+ul#album li#foto13{
+    background: url(album13.jfif) no-repeat;
+    background-position: 50% 50%;
+    background-size: 500px 500px;
+    background-color: white;
+}
+ul#album li#foto13:hover{
+    background-size: 300px 300px;
+}
+ul#album li#foto14{
+    background: url(album14.jfif) no-repeat;
+    background-position: 50% 50%;
+    background-size: 500px 500px;
+    background-color: white;
+}
+ul#album li#foto14:hover{
+    background-size: 300px 300px;
+}
+ul#album li#foto15{
+    background: url(album15.jfif) no-repeat;
+    background-position: 50% 50%;
+    background-size: 500px 500px;
+    background-color: white;
+}
+ul#album li#foto15:hover{
+    background-size: 300px 300px;
+}
+
 
 ul#album li span{
     color: white;
@@ -148,11 +230,36 @@ ul#album li:hover{
         ul#album li#foto06:hover{
             background-size: 100% 100%;
         }
+        ul#album li#foto07:hover{
+            background-size: 100% 100%;
+        }
+        ul#album li#foto08:hover{
+            background-size: 100% 100%;
+        }
+        ul#album li#foto09:hover{
+            background-size: 100% 100%;
+        }
+        ul#album li#foto10:hover{
+            background-size: 100% 100%;
+        }
+        ul#album li#foto11:hover{
+            background-size: 100% 100%;
+        }
+        ul#album li#foto12:hover{
+            background-size: 100% 100%;
+        }
+        ul#album li#foto13:hover{
+            background-size: 100% 100%;
+        }
+        ul#album li#foto14:hover{
+            background-size: 100% 100%;
+        }
+        ul#album li#foto15:hover{
+            background-size: 100% 100%;
+        }
+
         ul#album li:hover{
             -webkit-transform:scale(1.3);
         
-        }
-        span#erro{
-            display:none;
         }
     }
